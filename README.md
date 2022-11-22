@@ -1,10 +1,11 @@
 ## EU SOU....
 
 - 👋 Fabrícia Oliveira
-- 👀 Estudante - 1ºEnsino Médio 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Moro em Maringá
+- 🌱 Estudante - 1ºEnsino Médio
+- 💞️ Adoro a profissão Zootecnia 
+- 🏀 Esporte favorito - Basquete 
+- 
 
 <!---
 CRYSTAL070703/CRYSTAL070703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
